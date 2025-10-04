@@ -1,1 +1,3 @@
-# 5_Arrays_Tasks_63952028
+Kojo Kootin-Sanwu
+63952028
+Week 4 In-Class Lab
